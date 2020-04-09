@@ -3,6 +3,3 @@ requests
 pymongo
 dnspython
 python-telegram-bot
-django-heroku
-django
-gunicorn
